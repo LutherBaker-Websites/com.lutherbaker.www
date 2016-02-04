@@ -1,0 +1,51 @@
+table {
+	border-collapse: collapse;
+	margin-bottom: 1em;
+}
+
+table td {
+	padding: 4pt 8pt 4pt 0
+}
+
+.post-meta a {
+	border-bottom: 1px dotted #aaaaaa;
+	color: #aaaaaa;
+}
+
+.page-list {
+	list-style: none;
+	margin: 1em;
+	padding: 0;
+}
+
+.byline {
+	background-color: #f7f3f7;
+	border: 1px solid #e7e3e7;
+	border-radius: 5px;
+	color: #888;
+	font-size: 12pt;
+	font-style: oblique;
+	padding: 8px;
+}
+
+.byline-top,
+.byline-bottom {
+	color: #888;
+	font-size: 12pt;
+	font-style: oblique;
+	padding: 8px;
+}
+
+.byline-top {
+	border-bottom: 1px dotted #d1d1d1;
+}
+
+.byline-bottom {
+	border-top: 1px dotted #d1d1d1;
+}
+
+.strike {
+	color: #aaa;
+	font-style: oblique;
+	text-decoration: line-through;
+}
